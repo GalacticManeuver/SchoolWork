@@ -1,4 +1,4 @@
-Restaraunt was made as an Honors project for CS 150A Intro to SQL Databases & NoSQL
+﻿Restaurant was made as an Honors project for CS 150A Intro to SQL Databases & NoSQL
 
 This database is a database of restaurants and restaurant reviews. Being a normalized MySQL database,
 this database uses a minimum of memory, so server costs should be lower. It is set up to act as a part of
